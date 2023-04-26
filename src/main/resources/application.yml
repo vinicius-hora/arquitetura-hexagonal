@@ -1,2 +1,5 @@
 server:
   port: 4000
+
+api:
+  boleto: https://boleto.free.beeceptor.com/my/api/boleto
